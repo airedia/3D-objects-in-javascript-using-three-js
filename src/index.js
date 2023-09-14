@@ -1,5 +1,6 @@
 import "./styles.css";
-import * as THREE from "three";
+import * as THREE from "./three.min.js";
+//import * as THREE from "three";
 import { OrbitControls } from "./OrbitControls.js";
 //deprecated
 //import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
