@@ -54,7 +54,7 @@ const scene = new THREE.Scene();
 
 // image
 const textureLoader = new THREE.TextureLoader();
-const hdriTexture = textureLoader.load('/textures/forest.jpg');
+const hdriTexture = textureLoader.load('src/textures/forest.jpg');
 
 // Renderer
 const renderer = new THREE.WebGLRenderer({
