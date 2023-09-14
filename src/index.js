@@ -4,7 +4,8 @@ import * as THREE from "./three.min.js";
 import { OrbitControls } from "./OrbitControls.js";
 //deprecated
 //import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
-import { TransformControls } from "three/examples/jsm/controls/TransformControls.js";
+//import { TransformControls } from "three/examples/jsm/controls/TransformControls.js";
+import { TransformControls } from 'three/addons/controls/TransformControls.js';
 import GUI from "lil-gui";
 
 // ///////////////////////////////////////////////////////////
